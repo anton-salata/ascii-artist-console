@@ -18,7 +18,7 @@ AsciiArtist is a C# console application that converts images retrieved from Goog
 
 ## Example Output
 
-![ASCII Art Example](UI.png)
+![ASCII Art Example](Images/UI.png)
 
 ## Dependencies
 
